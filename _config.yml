@@ -1,1 +1,10 @@
 theme: jekyll-theme-tactile
+title: Shasha Feng
+email: shaalltime@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal website of Shasha Feng, talking about research in MD simulation and membrane
+  protein study.
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
